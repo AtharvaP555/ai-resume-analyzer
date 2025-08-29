@@ -1,4 +1,4 @@
-# 📄 CVipher – AI Resume Analyzer
+# 📄 CVipher – AI CV Analyzer
 
 CVipher is an AI-powered web app that helps job seekers analyze, score, and improve their resumes for specific job applications.
 It combines ATS scoring, AI feedback, and a visual dashboard to provide clear, actionable insights into how well a CV matches a job description.
